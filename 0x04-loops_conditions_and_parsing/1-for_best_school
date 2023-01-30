@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 # Displays 'Best School' in stdout 10 times
 
+<<<<<<< HEAD
 for (( i = 0; i <= 10; i++ ))
+=======
+for (( i = 0; i <= 10; i++ ));
+>>>>>>> 80175ee82ea1aa4dc5d4338bbbd0f06fbb17c54f
 do
   echo "Best School"
 done
