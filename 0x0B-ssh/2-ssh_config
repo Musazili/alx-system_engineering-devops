@@ -1,0 +1,6 @@
+Host web-01
+     HostName 52.87.155.69
+     ServerAliveInterval 60
+     IdentityFile ~/.ssh/id_rsa
+     PasswordAuthentication no
+     User ubuntu
